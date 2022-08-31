@@ -1,4 +1,4 @@
-package sonargo
+package sonar
 
 import (
 	"bytes"
@@ -10,9 +10,7 @@ import (
 	"net/url"
 	"sort"
 	"strings"
-
 	"github.com/magicsong/color-glog"
-
 	"github.com/google/go-querystring/query"
 )
 

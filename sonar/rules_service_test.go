@@ -1,4 +1,4 @@
-package sonargo_test
+package sonar
 
 import (
 	"strings"
@@ -122,10 +122,10 @@ var _ = Describe("SonarCLI integration test", func() {
 		It("Should be ok", func() {
 			key := createRule("magic_test_rule")
 			opt := &RulesUpdateOption{
-				DebtRemediationFnOffset: "",
-				DebtRemediationFnType:   "",
-				DebtRemediationFyCoeff:  "",
-				DebtSubCharacteristic:   "",
+				DebtRemediationFnOffset:    "",
+				DebtRemediationFnType:      "",
+				DebtRemediationFyCoeff:     "",
+				DebtSubCharacteristic:      "",
 				Key:                        key,
 				MarkdownDescription:        "",
 				MarkdownNote:               "",

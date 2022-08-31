@@ -1,5 +1,5 @@
 // Manage project tags
-package sonargo
+package sonar
 
 import "net/http"
 

@@ -1,5 +1,5 @@
 // Get information about a component (file, directory, project, ...) and its ancestors or descendants. Update a project or module key.
-package sonargo
+package sonar
 
 import "net/http"
 

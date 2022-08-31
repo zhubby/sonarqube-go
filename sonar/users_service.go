@@ -1,5 +1,5 @@
 // Manage users.
-package sonargo
+package sonar
 
 import "net/http"
 

@@ -1,5 +1,5 @@
 // Get components or children with specified measures.
-package sonargo
+package sonar
 
 import (
 	"net/http"

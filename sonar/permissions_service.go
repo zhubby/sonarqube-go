@@ -1,5 +1,5 @@
 // Manage permission templates, and the granting and revoking of permissions at the global and project levels.
-package sonargo
+package sonar
 
 import "net/http"
 

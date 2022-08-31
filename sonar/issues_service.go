@@ -1,5 +1,5 @@
 // Read and update issues.
-package sonargo
+package sonar
 
 import "net/http"
 

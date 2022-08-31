@@ -1,4 +1,4 @@
-package sonargo
+package sonar
 
 var metrics = []string{
 	"complexity",

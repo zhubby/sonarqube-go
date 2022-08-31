@@ -1,5 +1,5 @@
 // Get information on automatic metrics, and manage custom metrics. See also api/custom_measures.
-package sonargo
+package sonar
 
 import "net/http"
 

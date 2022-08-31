@@ -1,5 +1,5 @@
 // Manage branch (only available when the Branch plugin is installed)
-package sonargo
+package sonar
 
 import "net/http"
 

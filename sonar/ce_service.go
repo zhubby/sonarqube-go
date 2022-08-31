@@ -1,5 +1,5 @@
 // Get information on Compute Engine tasks.
-package sonargo
+package sonar
 
 import "net/http"
 

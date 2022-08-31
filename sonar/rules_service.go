@@ -1,5 +1,5 @@
 // Get and update some details of automatic rules, and manage custom rules.
-package sonargo
+package sonar
 
 import "net/http"
 

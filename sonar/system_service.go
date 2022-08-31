@@ -1,5 +1,4 @@
-// Get system details, and perform some management actions, such as restarting, and initiating a database migration (as part of a system upgrade).
-package sonargo
+package sonar
 
 import "net/http"
 

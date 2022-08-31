@@ -1,5 +1,5 @@
 // Manage quality gates, including conditions and project association.
-package sonargo
+package sonar
 
 import "net/http"
 

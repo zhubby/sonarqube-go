@@ -1,5 +1,4 @@
-// Manage project existence.
-package sonargo
+package sonar
 
 import "net/http"
 

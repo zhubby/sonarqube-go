@@ -1,5 +1,5 @@
 // Manage project analyses.
-package sonargo
+package sonar
 
 import "net/http"
 

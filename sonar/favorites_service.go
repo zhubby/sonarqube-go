@@ -1,5 +1,5 @@
 // Manage user favorites
-package sonargo
+package sonar
 
 import "net/http"
 

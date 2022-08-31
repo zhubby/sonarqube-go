@@ -1,5 +1,5 @@
 // Manage notifications of the authenticated user
-package sonargo
+package sonar
 
 import "net/http"
 

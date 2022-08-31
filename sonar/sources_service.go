@@ -1,5 +1,5 @@
 // Get details on source files. See also api/tests.
-package sonargo
+package sonar
 
 import "net/http"
 

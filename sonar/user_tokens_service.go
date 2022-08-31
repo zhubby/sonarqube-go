@@ -1,5 +1,5 @@
 // List, create, and delete a user's access tokens.
-package sonargo
+package sonar
 
 import "net/http"
 

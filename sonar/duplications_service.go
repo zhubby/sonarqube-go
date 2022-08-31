@@ -1,5 +1,5 @@
 // Get duplication information for a project.
-package sonargo
+package sonar
 
 import "net/http"
 

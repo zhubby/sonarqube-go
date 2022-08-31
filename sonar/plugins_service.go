@@ -1,5 +1,5 @@
 // Manage the plugins on the server, including installing, uninstalling, and upgrading.
-package sonargo
+package sonar
 
 import "net/http"
 

@@ -1,5 +1,5 @@
 // Generate badges based on quality gates or measures
-package sonargo
+package sonar
 
 import "net/http"
 

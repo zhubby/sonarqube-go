@@ -1,4 +1,4 @@
-package sonargo_test
+package sonar
 
 import (
 	"net/http"
