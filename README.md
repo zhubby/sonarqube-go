@@ -11,7 +11,7 @@ As `sonarqube api` is updated frequently, this client now only support [v7.4](ht
 ## Usage
 
 ```go
-import github.com/magicsong/sonargo/sonar
+import github.com/zhubby/sonarqube-go/sonar
 ```
 
 Construct a new Sonarqube client, then use the various services on the client to access different parts of the Sonarqube API. For example, to list all projects:

@@ -1,4 +1,4 @@
-package_name=sonargo
+package_name=sonarqube-go
 work_dir=sonar
 init-clean:
 	rm -f ${work_dir}/*.go

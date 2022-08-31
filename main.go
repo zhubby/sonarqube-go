@@ -7,6 +7,8 @@ import (
 	"os"
 
 	spew "github.com/davecgh/go-spew/spew"
+
+	. "github.com/zhubby/sonarqube-go/sonar"
 )
 
 var client *Client
@@ -1924,14 +1926,14 @@ func QualityProfilesRestoreFunc() {
 }
 
 // QualityProfilesRestoreBuiltInFunc testing This web service has no effect since 6.4. It's no more possible to restore built-in quality profiles because they are automatically updated and read only. Returns HTTP code 410.
-func QualityProfilesRestoreBuiltInFunc() {
-	resp, err := client.QualityProfiles.RestoreBuiltIn()
-	if err != nil {
-		fmt.Println(err.Error())
-		os.Exit(1)
-	}
-	fmt.Println(resp.StatusCode)
-}
+// func QualityProfilesRestoreBuiltInFunc() {
+// 	resp, err := client.QualityProfiles.RestoreBuiltIn()
+// 	if err != nil {
+// 		fmt.Println(err.Error())
+// 		os.Exit(1)
+// 	}
+// 	fmt.Println(resp.StatusCode)
+// }
 
 // QualityProfilesSearchFunc testing Search quality profiles
 func QualityProfilesSearchFunc() {
