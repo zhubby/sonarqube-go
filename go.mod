@@ -6,7 +6,6 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/google/go-querystring v1.0.0
 	github.com/magicsong/color-glog v0.0.1
-	github.com/magicsong/sonargo v0.0.1
 	github.com/onsi/ginkgo v1.7.0
 	github.com/onsi/gomega v1.4.3
 )

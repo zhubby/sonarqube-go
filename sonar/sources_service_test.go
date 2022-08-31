@@ -1,7 +1,6 @@
 package sonar
 
 import (
-	. "github.com/magicsong/sonargo/sonar"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
